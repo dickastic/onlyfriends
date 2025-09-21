@@ -1,23 +1,30 @@
-# OnlyFriends Website
+# 🌐 OnlyFriends Website
 
-This repository contains the source code for the **OnlyFriends** website.  
-It is available for everyone who wants to contribute or improve it.
+Welcome to the **OnlyFriends** website repository!  
+This project is **open for contributions** – anyone can help improve or update it.  
 
-## Project Structure
+---
 
-- `index.html` – main HTML file for the website.
-- `assets/` – folder containing images, fonts, and other static assets.
-- `resources/` – additional resources and scripts.
+## 📂 Project Structure
 
-## Features
+- `index.html` – Main HTML page.
+- `assets/` – Images, fonts, and other static files.
+- `resources/` – Additional resources and scripts.
 
-- Simple, lightweight, and easy to customize website.
-- All resources included locally.
-- Ready for collaboration and contributions.
+---
 
-## How to Contribute
+## ✨ Features
 
-1. Fork this repository.
+- Simple and lightweight website.
+- Fully local resources for easy customization.
+- Open to collaboration and improvements.
+- Ready for future updates and new features.
+
+---
+
+## 🤝 How to Contribute
+
+1. **Fork** this repository.
 2. Create a new branch for your changes:
    ```bash
    git checkout -b my-feature
